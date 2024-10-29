@@ -58,8 +58,8 @@ namespace Chummer
         public static void BreakIfDebug()
         {
 #if DEBUG
-            if (Debugger.IsAttached)
-                Debugger.Break();
+            //if (Debugger.IsAttached)
+            //    Debugger.Break();
 #else
             // Method intentionally left empty.
 #endif

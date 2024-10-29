@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is part of Chummer5a.
+
+    Chummer5a is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Chummer5a is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Chummer5a.  If not, see <http://www.gnu.org/licenses/>.
+
+    You can obtain the full source code for Chummer5a at
+    https://github.com/chummer5a/chummer5a
+-->
+<!-- Changes the Ares Duelist to its German R5 stats (see German R5 146 and German R5 148). -->
+<chummer>
+  <vehicles>
+    <vehicle>
+      <id>c8f7e6c0-85e6-4feb-9ef0-0aeca5fba76b</id>
+      <name>Ares Duelist</name>
+      <page>146</page>
+      <source>R5</source>
+      <accel>1</accel>
+      <armor>9</armor>
+      <avail>8R</avail>
+      <body>4</body>
+      <modslots>0</modslots>
+      <category>Drones: Anthro</category>
+      <cost>8000</cost>
+      <handling>4</handling>
+      <pilot>3</pilot>
+      <sensor>2</sensor>
+      <speed>1</speed>
+    </vehicle>
+  </vehicles>
+</chummer>

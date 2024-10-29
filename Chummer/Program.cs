@@ -1010,7 +1010,7 @@ namespace Chummer
                     //automatically fetch the values of local/global GUI objects FROM THE CURRENT THREAD, which will
                     //cause your application to crash/fail in strange ways. Go to Tools->Options->Debugging to turn
                     //that setting off.
-                    Debugger.Break();
+                    //Debugger.Break();
                 }
 #endif
 
